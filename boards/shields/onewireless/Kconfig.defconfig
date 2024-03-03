@@ -1,0 +1,6 @@
+if SHIELD_ONEWIRELESS
+
+config ZMK_KEYBOARD_NAME
+    default "One Wireless"
+
+endif

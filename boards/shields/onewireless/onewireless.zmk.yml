@@ -1,0 +1,9 @@
+file_format: "1"
+id: onewireless
+name: One Wireless
+type: shield
+url: https://github.com/johnliu55tw/zmk-config-onewireless
+requires:
+  - pro_micro
+features:
+  - keys
